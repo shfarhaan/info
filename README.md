@@ -1,5 +1,38 @@
 # Curriculum Vitae
 
+# Curriculum Vitae
+
+- [Personal Information](#personal-information)
+- [Area of Focus](#area-of-focus)
+- [Tech Skills](#tech-skills)
+- [Soft Skills](#soft-skills)
+- [Language Proficiency (IELTS)](#language-proficiency-ielts)
+- [Competitions](#competitions)
+- [Experience](#experience)
+  - [Machine Learning Engineer](#machine-learning-engineer)
+  - [AI Research Engineer](#ai-research-engineer)
+  - [Machine Learning Instructor](#machine-learning-instructor)
+  - [Research Assistant](#research-assistant)
+- [Publication](#publication)
+- [Awards](#awards)
+- [Extracurricular](#extracurricular)
+  - [IEEE Computer Society ULAB Student Branch Chapter](#ieee-computer-society-ulab-student-branch-chapter)
+  - [IEEE ULAB Student Branch](#ieee-ulab-student-branch)
+  - [Microsoft Student Partners](#microsoft-student-partners)
+- [Referees](#referees)
+- [Recent Projects & Research](#recent-projects--research)
+  - [Conversational Chatbot to Diagnose and Aid ADHD](#conversational-chatbot-to-diagnose-and-aid-adhd-among-bangladeshi-adults)
+  - [Studying the Exploration and Mapping of a 3D Environment](#studying-the-exploration-and-mapping-of-a-3d-environment)
+  - [Studying Complex Representations and Analyzing Genetic Computing Algorithms](#studying-complex-representations-and-analyzing-genetic-computing-algorithms)
+  - [Empathetic Relational Agent](#empathetic-relational-agent)
+- [Education](#education)
+  - [MS in CSE](#ms-in-cse)
+  - [BSc in CSE](#bsc-in-cse)
+
+
+
+
+
 ## Personal Information
 - **Name:** Sazzad Hussain Farhaan
 - **Address:** Dhanmondi 7A, Dhaka, Bangladesh
