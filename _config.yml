@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 # logo: /assets/shfarhaan.png
 # description: Address - Dhanmondi 7A, Dhaka, Bangladesh
 # description: email - shfarhaan21@gmail.com
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 
 
 # show_downloads: true
