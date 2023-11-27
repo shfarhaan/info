@@ -1,9 +1,15 @@
 title: Sazzad Hussain Farhaan
 # logo: /assets/shfarhaan.png
-description: Address - Dhanmondi 7A, Dhaka, Bangladesh
-description: email - shfarhaan21@gmail.com
-theme: jekyll-theme-minimal
-
+# description: Address - Dhanmondi 7A, Dhaka, Bangladesh
+# description: email - shfarhaan21@gmail.com
+# theme: jekyll-theme-minimal
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
 
 
 
