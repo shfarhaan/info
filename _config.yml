@@ -2,7 +2,7 @@ title: Sazzad Hussain Farhaan
 #logo: /assets/img/photo.png
 #description: text below image
 # show_downloads: true
-theme: jekyll-theme-minimal
+
 
 
 
@@ -13,3 +13,4 @@ personal_information:
   linkedin: www.linkedin.com/in/shfarhaan/
   github: github.com/shfarhaan
 
+theme: jekyll-theme-minimal
