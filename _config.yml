@@ -1,22 +1,16 @@
 title: Sazzad Hussain Farhaan
-
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/shfarhaan/">View My LinkedIn Profile</a> 
-  
-
-
 # logo: /assets/shfarhaan.png
-# description: Address - Dhanmondi 7A, Dhaka, Bangladesh
-# description: email - shfarhaan21@gmail.com
+description:
+
 theme: jekyll-theme-minimal
 
 
+  # - *address:* Dhanmondi 7A, Dhaka, Bangladesh
+  # - *email:* shfarhaan21@gmail.com
+  # - *phone:* +880 1685 170 845
+  # - *linkedin:* www.linkedin.com/in/shfarhaan/
+  # - *github:* github.com/shfarhaan
+
+
+
 # show_downloads: true
-# email: shfarhaan21@gmail.com
-# phone: +880 1685 170 845
-# linkedin: www.linkedin.com/in/shfarhaan/
-# github: github.com/shfarhaan
