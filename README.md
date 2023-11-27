@@ -1,48 +1,25 @@
 # Curriculum Vitae
-
-<!-- Bootstrap CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
-<!-- Bootstrap Navigation Bar -->
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand" href="#">CV</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item"><a class="nav-link" href="#personal-information">Personal Information</a></li>
-      <li class="nav-item"><a class="nav-link" href="#area-of-focus">Area of Focus</a></li>
-      <li class="nav-item"><a class="nav-link" href="#tech-skills">Tech Skills</a></li>
-      <li class="nav-item"><a class="nav-link" href="#soft-skills">Soft Skills</a></li>
-      <li class="nav-item"><a class="nav-link" href="#language-proficiency-ielts">Language Proficiency (IELTS)</a></li>
-      <li class="nav-item"><a class="nav-link" href="#competitions">Competitions</a></li>
-      <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
-      <li class="nav-item"><a class="nav-link" href="#publication">Publication</a></li>
-      <li class="nav-item"><a class="nav-link" href="#awards">Awards</a></li>
-      <li class="nav-item"><a class="nav-link" href="#extracurricular">Extracurricular</a></li>
-      <li class="nav-item"><a class="nav-link" href="#referees">Referees</a></li>
-      <li class="nav-item"><a class="nav-link" href="#recent-projects--research">Recent Projects & Research</a></li>
-      <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
-    </ul>
-  </div>
-</nav>
-
-<!-- Your CV content goes here -->
-
-<!-- Bootstrap JS and Popper.js (required for Bootstrap components) -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+- [Personal Information](#personal-information)
+- [Area of Focus](#area-of-focus)
+- [Tech Skills](#tech-skills)
+- [Soft Skills](#soft-skills)
+- [Language Proficiency (IELTS)](#language-proficiency-ielts)
+- [Competitions](#competitions)
+- [Experience](#experience)
+  - [Machine Learning Engineer](#machine-learning-engineer)
+  - [AI Research Engineer](#ai-research-engineer)
+  - [Machine Learning Instructor](#machine-learning-instructor)
+  - [Research Assistant](#research-assistant)
+- [Publication](#publication)
+- [Awards](#awards)
+- [Extracurricular](#extracurricular)
+- [Referees](#referees)
+- [Recent Projects & Research](#recent-projects--research)
+- [Education](#education)
+  - [MS in CSE](#ms-in-cse)
+  - [BSc in CSE](#bsc-in-cse)
 
 
-## Personal Information
-- **Name:** Sazzad Hussain Farhaan
-- **Address:** Dhanmondi 7A, Dhaka, Bangladesh
-- **Email:** shfarhaan21@gmail.com
-- **Phone:** +880 1685 170 845
-- **LinkedIn:** [shfarhaan](www.linkedin.com/in/shfarhaan/)
-- **GitHub:** [shfarhaan](github.com/shfarhaan)
 
 ## Area of Focus
 - Natural Language Processing (NLP)
