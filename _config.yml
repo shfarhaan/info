@@ -1,13 +1,10 @@
 title: Sazzad Hussain Farhaan
 # logo: /assets/shfarhaan.png
-description: Dhanmondi 7A, Dhaka, Bangladesh
-personal_information:
-  name: Sazzad Hussain Farhaan
-  address: 
-  email: shfarhaan21@gmail.com
-  phone: +880 1685 170 845
-  linkedin: www.linkedin.com/in/shfarhaan/
-  github: github.com/shfarhaan
+description: *address:* Dhanmondi 7A, Dhaka, Bangladesh
+description: *email:* shfarhaan21@gmail.com
+description: *phone:* +880 1685 170 845
+description: *linkedin:* www.linkedin.com/in/shfarhaan/
+description: *github:* github.com/shfarhaan
 theme: jekyll-theme-minimal
 
 
