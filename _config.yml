@@ -6,10 +6,10 @@ theme: jekyll-theme-minimal
 
 
 
-## Personal Information
-- **Name:** Sazzad Hussain Farhaan
-- **Address:** Dhanmondi 7A, Dhaka, Bangladesh
-- **Email:** shfarhaan21@gmail.com
-- **Phone:** +880 1685 170 845
-- **LinkedIn:** [shfarhaan](www.linkedin.com/in/shfarhaan/)
-- **GitHub:** [shfarhaan](github.com/shfarhaan)
+personal_information:
+  address: Dhanmondi 7A, Dhaka, Bangladesh
+  email: shfarhaan21@gmail.com
+  phone: +880 1685 170 845
+  linkedin: www.linkedin.com/in/shfarhaan/
+  github: github.com/shfarhaan
+
