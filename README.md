@@ -1,35 +1,39 @@
 # Curriculum Vitae
 
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
-
-<nav>
-  <ul>
-    <li><a href="#personal-information">Personal Information</a></li>
-    <li><a href="#area-of-focus">Area of Focus</a></li>
-    <li><a href="#tech-skills">Tech Skills</a></li>
-    <li><a href="#soft-skills">Soft Skills</a></li>
-    <li><a href="#language-proficiency-ielts">Language Proficiency (IELTS)</a></li>
-    <li><a href="#competitions">Competitions</a></li>
-    <li><a href="#experience">Experience</a></li>
-<!--       <ul>
-        <li><a href="#machine-learning-engineer">Machine Learning Engineer</a></li>
-        <li><a href="#ai-research-engineer">AI Research Engineer</a></li>
-        <li><a href="#machine-learning-instructor">Machine Learning Instructor</a></li>
-        <li><a href="#research-assistant">Research Assistant</a></li>
-      </ul> -->
-    <li><a href="#publication">Publication</a></li>
-    <li><a href="#awards">Awards</a></li>
-    <li><a href="#extracurricular">Extracurricular</a></li>
-    <li><a href="#referees">Referees</a></li>
-    <li><a href="#recent-projects--research">Recent Projects & Research</a></li>
-    <li><a href="#education">Education</a></li>
-<!--       <ul>
-        <li><a href="#ms-in-cse">MS in CSE</a></li>
-        <li><a href="#bsc-in-cse">BSc in CSE</a></li>
-      </ul> -->
-  </ul>
+<!-- Bootstrap Navigation Bar -->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="#">CV</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item"><a class="nav-link" href="#personal-information">Personal Information</a></li>
+      <li class="nav-item"><a class="nav-link" href="#area-of-focus">Area of Focus</a></li>
+      <li class="nav-item"><a class="nav-link" href="#tech-skills">Tech Skills</a></li>
+      <li class="nav-item"><a class="nav-link" href="#soft-skills">Soft Skills</a></li>
+      <li class="nav-item"><a class="nav-link" href="#language-proficiency-ielts">Language Proficiency (IELTS)</a></li>
+      <li class="nav-item"><a class="nav-link" href="#competitions">Competitions</a></li>
+      <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
+      <li class="nav-item"><a class="nav-link" href="#publication">Publication</a></li>
+      <li class="nav-item"><a class="nav-link" href="#awards">Awards</a></li>
+      <li class="nav-item"><a class="nav-link" href="#extracurricular">Extracurricular</a></li>
+      <li class="nav-item"><a class="nav-link" href="#referees">Referees</a></li>
+      <li class="nav-item"><a class="nav-link" href="#recent-projects--research">Recent Projects & Research</a></li>
+      <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+    </ul>
+  </div>
 </nav>
 
+<!-- Your CV content goes here -->
+
+<!-- Bootstrap JS and Popper.js (required for Bootstrap components) -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 
 ## Personal Information
