@@ -1,5 +1,5 @@
 # Curriculum Vitae
-- [Personal Information](#personal-information)
+<!-- - [Personal Information](#personal-information)
 - [Area of Focus](#area-of-focus)
 - [Tech Skills](#tech-skills)
 - [Soft Skills](#soft-skills)
@@ -17,8 +17,44 @@
 - [Recent Projects & Research](#recent-projects--research)
 - [Education](#education)
   - [MS in CSE](#ms-in-cse)
-  - [BSc in CSE](#bsc-in-cse)
+  - [BSc in CSE](#bsc-in-cse) -->
 
+
+## Experience
+
+### Machine Learning Engineer
+**Fellowship.AI**
+- *Location:* San Francisco, California, US (Remote)
+- *Duration:* 10/2023-Current
+- *Responsibilities:*
+  - Integration of Large Language Models into a hybrid system for a travel assistant.
+  - Developing and testing a robust Large-Action Model (LAM) pipeline.
+  - Exploring Hugging Face Transformers framework and optimization techniques.
+
+### AI Research Engineer
+**Omdena**
+- *Location:* Toronto, Canada (Remote)
+- *Duration:* 09/2023-Current
+- *Responsibilities:*
+  - In-depth Exploratory Data Analysis (EDA) for machine learning model development.
+  - Co-authorship of a research paper on project findings.
+  - Web scraping using Selenium and Beautiful Soup.
+  - Contributor to the project "EquiJob: Using AI to balance bias in job descriptions."
+
+### Machine Learning Instructor
+**Creative IT Institute**
+- *Location:* Dhaka, Bangladesh
+- *Duration:* 08/2022-Current
+- *Responsibilities:*
+  - Leading teams for in-house Computer Vision and NLP projects.
+  - Training over 1200+ students and professionals in Python, ML, and frameworks.
+
+### Research Assistant
+**CoronaNet Research Project**
+- *Duration:* 8/2021-07/2022
+- *Responsibilities:*
+  - Data cleaning for accuracy in project data.
+  - Comprehensive research on government policies combating COVID-19.
 
 
 ## Area of Focus
@@ -58,42 +94,6 @@
    - 1st Runner-Up, Poster Display (In Campus)
      - Research design: Converting Traffic Jam Noise into Energy.
 
-## Experience
-
-### Machine Learning Engineer
-**Fellowship.AI**
-- *Location:* San Francisco, California, US (Remote)
-- *Duration:* 10/2023-Current
-- *Responsibilities:*
-  - Integration of Large Language Models into a hybrid system for a travel assistant.
-  - Developing and testing a robust Large-Action Model (LAM) pipeline.
-  - Exploring Hugging Face Transformers framework and optimization techniques.
-
-### AI Research Engineer
-**Omdena**
-- *Location:* Toronto, Canada (Remote)
-- *Duration:* 09/2023-Current
-- *Responsibilities:*
-  - In-depth Exploratory Data Analysis (EDA) for machine learning model development.
-  - Co-authorship of a research paper on project findings.
-  - Web scraping using Selenium and Beautiful Soup.
-  - Contributor to the project "EquiJob: Using AI to balance bias in job descriptions."
-
-### Machine Learning Instructor
-**Creative IT Institute**
-- *Location:* Dhaka, Bangladesh
-- *Duration:* 08/2022-Current
-- *Responsibilities:*
-  - Leading teams for in-house Computer Vision and NLP projects.
-  - Training over 1200+ students and professionals in Python, ML, and frameworks.
-
-### Research Assistant
-**CoronaNet Research Project**
-- *Duration:* 8/2021-07/2022
-- *Responsibilities:*
-  - Data cleaning for accuracy in project data.
-  - Comprehensive research on government policies combating COVID-19.
-
 ## Publication
 - **Conference Papers:**
   - Published: 2
@@ -103,28 +103,7 @@
 - The Bronze Standard Awardee, The Duke of Edinburgh's International Award.
 - Vice Chancellor's Honors List Scholarship, Summer 2016.
 
-## Extracurricular
 
-### IEEE Computer Society ULAB Student Branch Chapter
-- *Duration:* 2019-2020 (In Campus)
-- Founding Chairperson, leading collaborative and internal events.
-
-### IEEE ULAB Student Branch
-- *Duration:* 2018-2019 (In Campus)
-- Organizing flagship and international events, increasing membership drive.
-
-### Microsoft Student Partners
-- *Duration:* 2017-2018 (Remote Program)
-- Coordinating local tech community for Microsoft-hosted tech events.
-
-## Referees
-1. **Nafees Mansoor, PhD**
-   - *Email:* nafees.mansoor@ulab.edu.bd
-   - *Position:* Associate Professor, Computer Science & Engineering, University of Liberal Arts Bangladesh
-
-2. **Shohan Hossain Ean**
-   - *Email:* shohan.cit.bd@gmail.com
-   - *Position:* Head of Department, Web and Software Department, Creative IT Institute
 
 ## Recent Projects & Research
 
@@ -144,6 +123,23 @@
 - Personally Led Project.
 - Industry Supervisor for Final Year Bachelors Program Students, coordinating in-house R&D Team.
 
+
+
+## Extracurricular
+
+### IEEE Computer Society ULAB Student Branch Chapter
+- *Duration:* 2019-2020 (In Campus)
+- Founding Chairperson, leading collaborative and internal events.
+
+### IEEE ULAB Student Branch
+- *Duration:* 2018-2019 (In Campus)
+- Organizing flagship and international events, increasing membership drive.
+
+### Microsoft Student Partners
+- *Duration:* 2017-2018 (Remote Program)
+- Coordinating local tech community for Microsoft-hosted tech events.
+
+
 ## Education
 
 ### MS in CSE
@@ -158,3 +154,13 @@
 - *CGPA:* 3.33
 - *Capstone Project:* Natural Language Processing based Quality Learning Management System
 - *Achievements:* Peer Mentor Appreciation Token, Champion - Project Display, 1st Runner-Up - Poster Display, 2nd Runner-Up - Problem Solver, Vice Chancellor's Honors List Scholarship (Summer 2016).
+
+
+## Referees
+1. **Nafees Mansoor, PhD**
+   - *Email:* nafees.mansoor@ulab.edu.bd
+   - *Position:* Associate Professor, Computer Science & Engineering, University of Liberal Arts Bangladesh
+
+2. **Shohan Hossain Ean**
+   - *Email:* shohan.cit.bd@gmail.com
+   - *Position:* Head of Department, Web and Software Department, Creative IT Institute
