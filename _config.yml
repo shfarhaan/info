@@ -13,10 +13,10 @@ description: >
   
   <h2>Personal Information</h2>
  
-  <p><i class="fas fa-envelope"></i> <strong>Email:</strong> shfarhaan21@gmail.com</p>
-  <p><i class="fas fa-phone"></i> <strong>Phone:</strong> +880 1685 170 845</p>
-  <p><i class="fab fa-linkedin"></i> <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan</a></p>
-  <p><i class="fab fa-github"></i> <strong>GitHub:</strong> <a href="github.com/shfarhaan" target="_blank">shfarhaan</a></p>
+<p><i class="fas fa-envelope"></i> <strong>Email:</strong> shfarhaan21@gmail.com</p>
+<p><i class="fas fa-phone"></i> <strong>Phone:</strong> +880 1685 170 845</p>
+<p><i class="fab fa-linkedin"></i> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan</a></p>
+<p><i class="fab fa-github"></i> <strong>GitHub:</strong> <a href="https://github.com/shfarhaan" target="_blank">shfarhaan</a></p>
 
 
 theme: jekyll-theme-minimal
