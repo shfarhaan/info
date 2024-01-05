@@ -31,7 +31,7 @@
   - Developing and testing a robust Large-Action Model (LAM) pipeline.
   - Exploring Hugging Face Transformers framework and optimization techniques.
 
-### AI Research Engineer
+### Machine Learning Engineer
 **Omdena**
 - *Location:* Toronto, Canada (Remote)
 - *Duration:* 09/2023-Current
