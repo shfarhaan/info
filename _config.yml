@@ -1,24 +1,30 @@
 title: Sazzad Hussain Farhaan
 logo: /assets/shfarhaan.png
-description: >
-      <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Sazzad Hussain Farhaan - CV</title>
+# description: >
+#       <head>
+#       <meta charset="UTF-8">
+#       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+#       <title>Sazzad Hussain Farhaan - CV</title>
 
-      <!-- Font Awesome icons (you may need to include the Font Awesome library) -->
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-      </head>
+#       <!-- Font Awesome icons (you may need to include the Font Awesome library) -->
+#       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+#       </head>
       
       
-      <h2>Personal Information</h2>
+#       <h2>Personal Information</h2>
 
-      <p><i class="fas fa-envelope"></i> <strong>Email:</strong> shfarhaan21@gmail.com</p>
-      <p><i class="fas fa-phone"></i> <strong>Phone:</strong> +880 1685 170 845</p>
-      <p><i class="fab fa-linkedin"></i> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan</a></p>
-      <p><i class="fab fa-github"></i> <strong>GitHub:</strong> <a href="https://github.com/shfarhaan" target="_blank">shfarhaan</a></p>
+#       <p><i class="fas fa-envelope"></i> <strong>Email:</strong> shfarhaan21@gmail.com</p>
+#       <p><i class="fas fa-phone"></i> <strong>Phone:</strong> +880 1685 170 845</p>
+#       <p><i class="fab fa-linkedin"></i> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shfarhaan/" target="_blank">shfarhaan</a></p>
+#       <p><i class="fab fa-github"></i> <strong>GitHub:</strong> <a href="https://github.com/shfarhaan" target="_blank">shfarhaan</a></p>
 
-
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=BnEVHz0AAAAJ
+cv_link: assets/files/Aquilina_Andrew_CV.pdf
+github_link: https://github.com/andaqu
+linkedin: https://www.linkedin.com/in/andrew-aquilina
+twitter: https://twitter.com/andruaquilina
 
 theme: jekyll-theme-minimal
 
